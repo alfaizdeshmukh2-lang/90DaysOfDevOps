@@ -78,7 +78,7 @@ curl = Command-line tool to make HTTP requests
 -I = Fetch only HTTP headers (not full page)
 ```
 
-* Logs
+## Logs
 
 * journalctl -u <service> -n 50
 * Ex : journalctl -u ssh -n 50
